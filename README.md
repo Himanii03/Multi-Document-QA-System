@@ -40,6 +40,3 @@ A Retrieval-Augmented Generation (RAG) application that enables question answeri
 * How to deal with hyperacidity?
 * What is a decoder in Transformer?
 
-## License
-
-MIT License
